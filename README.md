@@ -36,34 +36,9 @@
 
 <h2 style="color:rgb(255,0,0);">Habilidades / conocimientos</h2>
 
-<p style="color:rgb(0,0,255);">Controlo todo el tema de informatica, pero lo que mejor llevo es la programacion.</p
+<p style="color:rgb(0,0,255);">Controlo todo el tema de informatica, pero lo que mejor llevo es la programacion</p>
 
-<h2 style="color:rgb(255,0,0);"></h2>
+<h2 style="color:rgb(255,0,0);">Aficiones</h2>
 
+<p style="color:rgb(0,0,255);">I eat pussy like a boss</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p style="color:rgb(0,0,255);"> </p>

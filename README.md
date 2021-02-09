@@ -1,6 +1,6 @@
 # **CV_Kasper_Mendrek**
 
-## **Datos personales**
+## ** <p style="color:rgb(255,0,0);">Datos personales**</p>
 
 1. <h6>Nombre y apellidos:</h6> Kasper Nicolas Mendrek
 
@@ -36,4 +36,4 @@
 
 5. Ruso - A1
 
-<p style="color:rgb(255,0,0);">Red paragraph text</p>
+<p style="color:rgb(255,0,0);"></p>

@@ -24,15 +24,46 @@
 
 <h2 style="color:rgb(255,0,0);">Idiomas</h2>
 
-<p style="color:rgb(0,0,255);">1. Castellano - C1</p>
+1. <p style="color:rgb(0,0,255);">Castellano - C1</p>
 
-<p style="color:rgb(0,0,255);">2. Ingles - A2</p>
+2. <p style="color:rgb(0,0,255);">Ingles - A2</p>
 
-<p style="color:rgb(0,0,255);">3. Valenciano - A2</p>
+3. <p style="color:rgb(0,0,255);">Valenciano - A2</p>
 
-<p style="color:rgb(0,0,255);">4. Polaco - B1</p>
+4. <p style="color:rgb(0,0,255);">Polaco - B1</p>
 
-<p style="color:rgb(0,0,255);">5. Ruso - A1</p>
+5. <p style="color:rgb(0,0,255);">Ruso - A1</p>
+
+<h2 style="color:rgb(255,0,0);">Habilidades / conocimientos</h2>
+
+<p style="color:rgb(0,0,255);">Controlo todo el tema de informatica, pero lo que mejor llevo es la programacion.</p
+
+<h2 style="color:rgb(255,0,0);"></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p style="color:rgb(0,0,255);"> </p>

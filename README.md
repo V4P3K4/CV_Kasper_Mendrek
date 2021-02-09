@@ -2,9 +2,9 @@
 
 ## **Datos personales**
 
-1. ###### Nombre y apellidos:  Kasper Nicolas Mendrek
+1. Nombre y apellidos:  Kasper Nicolas Mendrek
 
-2. 05/12/03
+2. <h6>Fecha de naciemiento:</h6> 05/12/03
 
 3. gierazinski16763@iesmarenostrum.com
 

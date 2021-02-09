@@ -8,7 +8,7 @@
 
 3. <h6>Correo electronico:</h6> gierazinski16763@iesmarenostrum.com
 
-4 . <h6>Tlf:</h6> 640850241
+4. <h6>Tlf:</h6> 640850241
 
 ## **Formación académica**
 

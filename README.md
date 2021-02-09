@@ -1,6 +1,6 @@
 # **CV_Kasper_Mendrek**
 
- <h2><p style="color:rgb(255,0,0);">Datos personales</p></h2>
+ <h2 style="color:rgb(255,0,0);">Datos personales</h2>
 
 1. <h6>Nombre y apellidos:</h6> Kasper Nicolas Mendrek
 
@@ -10,13 +10,12 @@
 
 4. <h6>Tlf:</h6> 640850241
 
-<h2><p style="color:rgb(255,0,0);">Formación académica</p></h2>
-
+<h2> style="color:rgb(255,0,0);">Formación académica</h2>
 1. <h6>Estudios:</h6> ESO y FPB
 
 2. <h6>Otros estudios:</h6> Primeros auxilios
 
-<h2><p style="color:rgb(255,0,0);">Experiencia profesional</p></h2>
+<h2> style="color:rgb(255,0,0);">Experiencia profesional</h2>
 
 1. <h6>Nombre de la empresa:</h6> Kaspersky
 
@@ -24,7 +23,7 @@
 
 3. <h6>Funcion principal:</h6> Mantenimiento y seguridad informatica del usuario
 
-<h2><p style="color:rgb(255,0,0);">Idiomas</p></h2>
+<h2> style="color:rgb(255,0,0);">Idiomas</h2>
 
 1. Castellano - C1
 
@@ -36,4 +35,4 @@
 
 5. Ruso - A1
 
-<p style="color:rgb(255,0,0);"></p>
+

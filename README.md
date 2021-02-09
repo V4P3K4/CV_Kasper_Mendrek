@@ -12,17 +12,17 @@
 
 ## **Formación académica**
 
-1. ESO y FPB
+1. <h6>Estudios:</h6> ESO y FPB
 
-2. Primeros auxilios
+2. <h6>Otros estudios:</h6> Primeros auxilios
 
 ## **Experiencia profesional**
 
-1. Kaspersky
+1. <h6>Nombre de la empresa:</h6> Kaspersky
 
-2. Enero 2017 hasta mayo 2019
+2. <h6>Fecha de desempeño del trabajo:</h6> Enero 2017 hasta mayo 2019
 
-3. Mantenimiento y seguridad informatica del usuario
+3. <h6>Funcion principal:</h6> Mantenimiento y seguridad informatica del usuario
 
 ## **Idiomas**
 

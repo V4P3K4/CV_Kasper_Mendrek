@@ -25,14 +25,15 @@
 
 <h2 style="color:rgb(255,0,0);">Idiomas</h2>
 
-1. Castellano - C1
+<h2 style="color:rgb(0,0,255);">1. Castellano - C1</h2>
 
-2. Ingles - A2
+<h2 style="color:rgb(0,0,255);">2. Ingles - A2</h2>
 
-3. Valenciano - A2
+<h2 style="color:rgb(0,0,255);">3. Valenciano - A2</h2>
 
-4. Polaco - B1
+<h2 style="color:rgb(0,0,255);">4. Polaco - B1</h2>
 
-5. Ruso - A1
+<h2 style="color:rgb(0,0,255);">5. Ruso - A1</h2>
 
 
+<h2 style="color:rgb(0,0,255);"> </h2>

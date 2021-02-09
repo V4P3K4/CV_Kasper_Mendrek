@@ -23,17 +23,17 @@
 
 3. <h6>Funcion principal:</h6> Mantenimiento y seguridad informatica del usuario
 
-<h2 style="color:rgb(255,0,0);">Idiomas</h2>
+<p style="color:rgb(255,0,0);">Idiomas</p>
 
-<h2 style="color:rgb(0,0,255);">1. Castellano - C1</h2>
+<p style="color:rgb(0,0,255);">1. Castellano - C1</p>
 
-<h2 style="color:rgb(0,0,255);">2. Ingles - A2</h2>
+<p style="color:rgb(0,0,255);">2. Ingles - A2</p>
 
-<h2 style="color:rgb(0,0,255);">3. Valenciano - A2</h2>
+<p style="color:rgb(0,0,255);">3. Valenciano - A2</p>
 
-<h2 style="color:rgb(0,0,255);">4. Polaco - B1</h2>
+<p style="color:rgb(0,0,255);">4. Polaco - B1</p>
 
-<h2 style="color:rgb(0,0,255);">5. Ruso - A1</h2>
+<p style="color:rgb(0,0,255);">5. Ruso - A1</p>
 
 
-<h2 style="color:rgb(0,0,255);"> </h2>
+<p style="color:rgb(0,0,255);"> </p>

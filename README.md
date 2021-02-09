@@ -1,6 +1,4 @@
-<h1 style="color:rgb(0,143,57);">CV_Kasper_Mendrek</h1>          
-
- <h2 style="color:rgb(255,0,0);">Datos personales</h2>
+<h2 style="color:rgb(255,0,0);">Datos personales</h2>
 
 1. <h6>Nombre y apellidos:</h6> <p style="color:rgb(0,0,255);">Kasper Nicolas Mendrek</p>
 

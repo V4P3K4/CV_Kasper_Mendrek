@@ -2,36 +2,36 @@
 
 ## **Datos personales**
 
-*Kasper Nicolas Mendrek
+1. Kasper Nicolas Mendrek
 
-*05/12/03
+2. 05/12/03
 
-*gierazinski16763@iesmarenostrum.com
+3. gierazinski16763@iesmarenostrum.com
 
-*640850241
+4 .640850241
 
 ## **Formación académica**
 
-*ESO y FPB
+1. ESO y FPB
 
-*Primeros auxilios
+2. Primeros auxilios
 
 ## **Experiencia profesional**
 
-*Kaspersky
+1. Kaspersky
 
-*Enero 2017 hasta mayo 2019
+2. Enero 2017 hasta mayo 2019
 
-*Mantenimiento y seguridad informatica del usuario
+3. Mantenimiento y seguridad informatica del usuario
 
 ## **Idiomas**
 
-*Castellano - C1
+1. Castellano - C1
 
-*Ingles - A2
+2. Ingles - A2
 
-*Valenciano - A2
+3. Valenciano - A2
 
-*Polaco - B1
+4. Polaco - B1
 
-*Ruso - A1
+5. Ruso - A1

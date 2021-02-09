@@ -2,9 +2,9 @@
 
  <h2 style="color:rgb(255,0,0);">Datos personales</h2>
 
-1. <h6>Nombre y apellidos:</h6> Kasper Nicolas Mendrek
+1. <h6>Nombre y apellidos:</h6> <p style="color:rgb(0,0,255);">Kasper Nicolas Mendrek</p>
 
-2. <h6>Fecha de naciemiento:</h6> 05/12/03
+2. <h6>Fecha de naciemiento:</h6> <p style="color:rgb(0,0,255);">05/12/03</p>
 
 3. <h6>Correo electronico:</h6> gierazinski16763@iesmarenostrum.com
 

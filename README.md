@@ -40,5 +40,5 @@
 
 <h2 style="color:rgb(255,0,0);">Aficiones</h2>
 
-<p style="color:rgb(0,0,0);">Me gusta correr</p>
+<p style="color:rgb(0,0,255);">Me gusta correr</p>
 

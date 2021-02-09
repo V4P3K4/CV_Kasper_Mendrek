@@ -6,22 +6,23 @@
 
 2. <h6>Fecha de naciemiento:</h6> <p style="color:rgb(0,0,255);">05/12/03</p>
 
-3. <h6>Correo electronico:</h6> gierazinski16763@iesmarenostrum.com
+3. <h6>Correo electronico:</h6> <p style="color:rgb(0,0,255);">gierazinski16763@iesmarenostrum.com</p>
 
-4. <h6>Tlf:</h6> 640850241
+4. <h6>Tlf:</h6> <p style="color:rgb(0,0,255);">640850241</p>
 
 <h2 style="color:rgb(255,0,0);">Formación académica</h2>
-1. <h6>Estudios:</h6> ESO y FPB
 
-2. <h6>Otros estudios:</h6> Primeros auxilios
+1. <h6>Estudios:</h6> <p style="color:rgb(0,0,255);">ESO y FPB</p>
+
+2. <h6>Otros estudios:</h6> <p style="color:rgb(0,0,255);">Primeros auxilios</p>
 
 <h2 style="color:rgb(255,0,0);">Experiencia profesional</h2>
 
-1. <h6>Nombre de la empresa:</h6> Kaspersky
+1. <h6>Nombre de la empresa:</h6> <p style="color:rgb(0,0,255);">Kaspersky</p>
 
-2. <h6>Fecha de desempeño del trabajo:</h6> Enero 2017 hasta mayo 2019
+2. <h6>Fecha de desempeño del trabajo:</h6> <p style="color:rgb(0,0,255);">Enero 2017 hasta mayo 2019</p>
 
-3. <h6>Funcion principal:</h6> Mantenimiento y seguridad informatica del usuario
+3. <h6>Funcion principal:</h6> <p style="color:rgb(0,0,255);">Mantenimiento y seguridad informatica del usuario</p>
 
 <p style="color:rgb(255,0,0);">Idiomas</p>
 

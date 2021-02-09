@@ -40,5 +40,5 @@
 
 <h2 style="color:rgb(255,0,0);">Aficiones</h2>
 
-<h1 style="color:rgb(0,0,0);">I eat pussy like a boss</h1>
+<p style="color:rgb(0,0,0);">Me gusta correr</p>
 

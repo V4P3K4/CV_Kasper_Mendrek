@@ -1,4 +1,4 @@
-<h1 style="color:rgb(0,143,57);">CV_Kasper_Mendrek</h1>
+<h1 style="color:rgb(0,143,57);">CV_Kasper_Mendrek</h1>          
 
  <h2 style="color:rgb(255,0,0);">Datos personales</h2>
 
@@ -18,7 +18,7 @@
 
 <h2 style="color:rgb(255,0,0);">Experiencia profesional</h2>
 
-1. <h6>Nombre de la empresa:</h6> <p style="color:rgb(0,0,255);">Kaspersky</p>
+1. <h6>Nombre de la empresa:</h6> <p style="color:rgb(0,0,255);">Kaspersky</p>        ![](https://www.kaspersky.es/content/es-es/images/product_icon_KISA.png)
 
 2. <h6>Fecha de desempeño del trabajo:</h6> <p style="color:rgb(0,0,255);">Enero 2017 hasta mayo 2019</p>
 

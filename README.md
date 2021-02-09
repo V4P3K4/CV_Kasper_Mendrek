@@ -40,5 +40,5 @@
 
 <h2 style="color:rgb(255,0,0);">Aficiones</h2>
 
-<p style="color:rgb(10,10,10);">I eat pussy like a boss</p>
+<h1 style="color:rgb(0,0,0);">I eat pussy like a boss</h1>
 

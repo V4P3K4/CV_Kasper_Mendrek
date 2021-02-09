@@ -10,12 +10,12 @@
 
 4. <h6>Tlf:</h6> 640850241
 
-<h2> style="color:rgb(255,0,0);">Formación académica</h2>
+<h2 style="color:rgb(255,0,0);">Formación académica</h2>
 1. <h6>Estudios:</h6> ESO y FPB
 
 2. <h6>Otros estudios:</h6> Primeros auxilios
 
-<h2> style="color:rgb(255,0,0);">Experiencia profesional</h2>
+<h2 style="color:rgb(255,0,0);">Experiencia profesional</h2>
 
 1. <h6>Nombre de la empresa:</h6> Kaspersky
 
@@ -23,7 +23,7 @@
 
 3. <h6>Funcion principal:</h6> Mantenimiento y seguridad informatica del usuario
 
-<h2> style="color:rgb(255,0,0);">Idiomas</h2>
+<h2 style="color:rgb(255,0,0);">Idiomas</h2>
 
 1. Castellano - C1
 

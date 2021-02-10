@@ -42,4 +42,6 @@
 
 <p style="color:rgb(0,0,255);">Me gusta correr</p>
 
+<h2 style="color:rgb(255,0,0);">Mis trabajos</h2>
+
 [Mis trabajos](Trabajos.md)

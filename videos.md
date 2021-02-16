@@ -1,4 +1,4 @@
-<h1>Videos de Kasper Nicolas Gierazinski Mendrek</h1>
+<p style="color:rgb(0,143,57);"><h1>Videos de Kasper Nicolas Gierazinski Mendrek</h1></p>
 
 
 <p style="color:rgb(0,0,255);"><h2>Mis 6 horas favorias de Mozart, perfecto para tener 6 horas de relajación.</h2></p>
@@ -18,4 +18,4 @@
 
 [Inicio CV](README.md)------------[Volver atrás](Trabajos.md)
 
-<p style="color:rgb(0,0,255);"></p>
+<p style="color:rgb(0,143,57);"></p>

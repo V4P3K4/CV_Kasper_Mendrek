@@ -16,7 +16,5 @@
 <h2><p style="color:rgb(0,0,255);">Bueno...no tenia que faltar mi profesor favorito, con uno de sus videos que explica muy bien el contenido de GitHub.</p></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SJf4iTkMNPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Inicio CV](README.md)------------[Volver atrás](Trabajos.md)
 
-<p style="color:rgb(0,143,57);"></p>
-<p style="color:rgb(0,0,255);"></p>
+####[Inicio CV](README.md)------------[Volver atrás](Trabajos.md)

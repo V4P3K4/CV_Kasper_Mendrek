@@ -32,4 +32,5 @@
 
 
 
-[Inicio CV](README.md)
+[Inicio CV](README.md) [Videos](videos.md)
+

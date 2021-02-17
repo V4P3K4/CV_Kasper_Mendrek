@@ -32,5 +32,5 @@
 
 
 
-#### [Inicio CV](README.md)---------------[Videos](videos.md)---------------[Fotos](./FOTOS/fotos.md)
+#### [Inicio CV](README.md)---------------[Videos](videos.md)---------------[Fotos](fotos)
 

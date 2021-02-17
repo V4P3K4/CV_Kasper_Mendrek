@@ -18,7 +18,8 @@ Ufff ufff, esta serie, lo mejorcito de sus tiempos
 
 My litle pony una serie un poco afeminizada ,con un lado LGTBIQ+ muy oscuro...
 
-![](./fotos/ponys.jpg)
+![](./fotos/ponys.png)
+
 
 
 

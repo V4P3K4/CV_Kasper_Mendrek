@@ -41,7 +41,8 @@
 <h2 style="color:rgb(255,0,0);">Aficiones</h2>
 
 <p style="color:rgb(0,0,255);">Me gusta correr</p>
+[Videos](videos.md)---------------[Fotos](fotos.md)
 
 <h2 style="color:rgb(255,0,0);">Mis trabajos</h2>
 
-[Mis trabajos](Trabajos.md)---------------[Videos](videos.md)---------------[Fotos](fotos.md)
+[Mis trabajos](Trabajos.md)

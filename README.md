@@ -44,4 +44,4 @@
 
 <h2 style="color:rgb(255,0,0);">Mis trabajos</h2>
 
-[Mis trabajos](Trabajos.md)
+[Mis trabajos](Trabajos.md)---------------[Videos](videos.md)---------------[Fotos](fotos.md)
